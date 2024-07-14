@@ -13,6 +13,10 @@ Dashboard Analytics: Visualize key metrics and performance indicators.
 
 Here are some screenshots of the dashboard in action:
 
+### Demo Showcasing:
+
+https://www.loom.com/share/a7baea477462451f977664f3fb71b625?sid=114c25f7-9fea-4211-ba6a-3c3a72fd591c
+
 
 ### Dashboard Overview
 
