@@ -1,4 +1,6 @@
 Tooling Data Explorer / Dashboard
+
+
 A comprehensive dashboard built with React to manage customers, orders, inventory, and other components. This project provides a user-friendly interface for efficiently handling various administrative tasks.
 
 Features
